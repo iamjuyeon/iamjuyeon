@@ -14,9 +14,9 @@
 <h3>:star:2~3차 프로젝트:star:</h3>
 <p>프로젝트명 : 자녀와 부모가 함께 사용하는 MOA</p>
 <h2>http://112.222.157.156:6525/login</h2>
+<br>
 
-
-<h1>기술 스택</h1>
+<h1>:pushpin:기술 스택:pushpin:</h1>
 
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 

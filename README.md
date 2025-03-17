@@ -9,6 +9,7 @@
 <h1>:fire:참여한 프로젝트:fire:</h1>
 <h3>:star:1차 프로젝트:star:</h3>
 <p>프로젝트명 : 우주인의 to-do list</p>
+<h2>https://github.com/1st-projec-2jo/team2</h2>
 <h2>http://112.222.157.156:6521/</h2>
 
 <br>

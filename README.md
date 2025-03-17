@@ -1,5 +1,5 @@
 <header>
-  ![header](https://capsule-render.vercel.app/api?type=rounded&text=How%20To%20Lemonade:lemon:)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&text=How%20To%20Lemonade)
   <p>Meanig : When life gives you lemons, make lenmonade라는 미국의 한 속담으로 너무 시어서 아무것도 못하는 레몬이라는 시련이 삶에 주어지더라도 달콤한 레몬에이드를 만드는 긍정적인 성격의 사람이 되어라는 의미입니다. 여러가지 현실에 부딪혀 좌절하지 말고 레몬에이드를 만드는 사람이 되고자 노력 중입니다.</p>
   <br>
   <br>

@@ -30,6 +30,8 @@
 
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjuyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuyeon)](https://github.com/anuraghazra/github-readme-stats)

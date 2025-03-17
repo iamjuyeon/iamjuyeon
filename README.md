@@ -28,8 +28,10 @@
 
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjuyeon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -20,8 +20,14 @@
 <h1>기술 스택</h1>
 // 배지 코드
 <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+//html
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+//css
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+//js
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 
 

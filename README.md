@@ -10,13 +10,13 @@
 <h3>:star:1차 프로젝트:star:</h3>
 <p>프로젝트명 : 우주인의 to-do list</p>
 <h3>:link: https://github.com/1st-projec-2jo/team2</h3>
-<h3>http://112.222.157.156:6521/</h3>
+<h3>:computer: http://112.222.157.156:6521/</h3>
 
 <br>
 <h3>:star:2~3차 프로젝트:star:</h3>
 <p>프로젝트명 : 자녀와 부모가 함께 사용하는 MOA</p>
 <h3>:link: https://github.com/CHOIdotGit/2408_PHP_SecondProject</h3>
-<h3>http://112.222.157.156:6525/login</h3>
+<h3>:computer: http://112.222.157.156:6525/login</h3>
 <br>
 
 <h1>:pushpin:기술 스택:pushpin:</h1>
